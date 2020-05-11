@@ -62,4 +62,3 @@ spec:
                             serviceName: adam-solo-microservice-service
                             servicePort: 30201
 
-
